@@ -7,7 +7,7 @@
 
 ```AuthentiFake is a microservice we’ll provide to media platforms that allow you to upload photos. When the user tries to upload an altered image, a small message appears notifying the user that the image isn’t what it seems. This is a minimally intrusive way to educate people rather than censor them. The user, now up to speed, can decide whether or not to proceed with the upload. ```
 
-## TOOLS USED:
+## IBM CLOUD TOOLS USED:
 
 IBM WATSON STUDIO 
 
